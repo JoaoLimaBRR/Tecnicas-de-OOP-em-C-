@@ -5,3 +5,9 @@ C:\Users\joaov\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.csprojAssemblyRefe
 C:\Users\joaov\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.CoreCompileInputs.cache
 C:\Users\joaov\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.exe
 C:\Users\joaov\source\repos\Pedidos\Pedidos\obj\Debug\Pedidos.pdb
+E:\Pedidos\Pedidos\bin\Debug\Pedidos.exe.config
+E:\Pedidos\Pedidos\bin\Debug\Pedidos.exe
+E:\Pedidos\Pedidos\bin\Debug\Pedidos.pdb
+E:\Pedidos\Pedidos\obj\Debug\Pedidos.csprojAssemblyReference.cache
+E:\Pedidos\Pedidos\obj\Debug\Pedidos.exe
+E:\Pedidos\Pedidos\obj\Debug\Pedidos.pdb

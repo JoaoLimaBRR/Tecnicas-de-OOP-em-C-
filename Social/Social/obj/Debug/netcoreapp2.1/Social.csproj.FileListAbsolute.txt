@@ -1,0 +1,11 @@
+C:\Users\joaov\source\repos\Social\Social\obj\Debug\netcoreapp2.1\Social.csprojAssemblyReference.cache
+C:\Users\joaov\source\repos\Social\Social\obj\Debug\netcoreapp2.1\Social.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Social\Social\obj\Debug\netcoreapp2.1\Social.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Social\Social\obj\Debug\netcoreapp2.1\Social.AssemblyInfo.cs
+C:\Users\joaov\source\repos\Social\Social\bin\Debug\netcoreapp2.1\Social.deps.json
+C:\Users\joaov\source\repos\Social\Social\bin\Debug\netcoreapp2.1\Social.runtimeconfig.json
+C:\Users\joaov\source\repos\Social\Social\bin\Debug\netcoreapp2.1\Social.runtimeconfig.dev.json
+C:\Users\joaov\source\repos\Social\Social\bin\Debug\netcoreapp2.1\Social.dll
+C:\Users\joaov\source\repos\Social\Social\bin\Debug\netcoreapp2.1\Social.pdb
+C:\Users\joaov\source\repos\Social\Social\obj\Debug\netcoreapp2.1\Social.dll
+C:\Users\joaov\source\repos\Social\Social\obj\Debug\netcoreapp2.1\Social.pdb

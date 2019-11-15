@@ -1,0 +1,7 @@
+C:\Users\logonucd\source\repos\CalcSalary\CalcSalary\obj\Debug\CalcSalary.csprojAssemblyReference.cache
+C:\Users\logonucd\source\repos\CalcSalary\CalcSalary\obj\Debug\CalcSalary.csproj.CoreCompileInputs.cache
+C:\Users\logonucd\source\repos\CalcSalary\CalcSalary\bin\Debug\CalcSalary.exe.config
+C:\Users\logonucd\source\repos\CalcSalary\CalcSalary\bin\Debug\CalcSalary.exe
+C:\Users\logonucd\source\repos\CalcSalary\CalcSalary\bin\Debug\CalcSalary.pdb
+C:\Users\logonucd\source\repos\CalcSalary\CalcSalary\obj\Debug\CalcSalary.exe
+C:\Users\logonucd\source\repos\CalcSalary\CalcSalary\obj\Debug\CalcSalary.pdb
